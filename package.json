@@ -1,0 +1,19 @@
+{
+  "name": "goit-js-hw-02",
+  "version": "1.0.0",
+  "description": "Homework #2 for JavaScript course",
+  "scripts": {
+    "push": "git add . && git commit -m 'update' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nejdan4k/goit-js-hw-02.git"
+  },
+  "keywords": [],
+  "author": "Anton Stryzhavchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nejdan4k/goit-js-hw-02/issues"
+  },
+  "homepage": "https://github.com/Nejdan4k/goit-js-hw-02#readme"
+}
